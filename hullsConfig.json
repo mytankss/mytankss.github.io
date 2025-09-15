@@ -1,0 +1,10 @@
+{
+    "id":"HULLS_CONFIGURATION",	
+	"items": [
+	  {
+	    "name" : "hornet_m3",
+		"model_id" : "hornet_m3",
+		"TODO" : "физика..."
+	  }
+	]
+}

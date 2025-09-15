@@ -1,0 +1,22 @@
+{
+    "id":"TURRET_CONFIGURATION",	
+	"items": [
+	  {
+	    "name" : "railgun_m3",
+		
+		"turret_rotation_speed" : 1.5,
+		"turret_rotation_accel" : 1.5,
+		"impact_coeff" : 200000000,
+		"impact_force" : 300000000,
+		"kick_back" : 10000000,
+	
+		"auto_aiming_angle_down" : 100,
+		"auto_aiming_angle_up" : 100,
+		"num_rays_down" : 100,
+		"num_rays_up" : 100,
+		"reload_time_mc" : 2500,
+		
+		"model_id" : "railgun_m3"
+	  }
+	]
+}
