@@ -971,6 +971,7 @@
         {
             "name": "map_prospect.xml",
             "libs": [
+                    "resources/library/ConcreteTilesWinter.tara",
                     "resources/library/ConcreteTiles.tara",
                     "resources/library/Cliffs.tara",
                     "resources/library/GrassTiles.tara",
