@@ -1,0 +1,29 @@
+{
+  "baseUrl": "http://mytanks.ru",
+  "updateUrl": "https://mytankss.github.io/update",
+  "links": {
+    "vk": "https://vk.com/mytanks_official",
+    "forum": "http://forum.mytanks.ru",
+    "discord": "https://discordapp.com/invite/vvaTQsx",
+    "kassa": "http://pay.mytanks.ru"
+  },
+  "proxy": {
+    "url": "http://45.10.250.212:8000",
+    "username": "apwTTV",
+    "password": "QPyGbn"
+  },
+  "otherParams": {
+    "maxProxyAttempts": 1,
+    "adobeAirUrl": "http://web.archive.org/web/20230628081819/http://mytanksupdate.net/update/AdobeAIRInstaller.exe",
+    "clientZipFull": "client.zip",
+    "clientZipIncremental": "client_new.zip",
+    "resourcesZipFull": "resources.zip",
+    "resourcesZipIncremental": "resources_new.zip",
+    "client": "flashplayer_sa.exe",
+    "updater": "updater.exe",
+    "clientFolder": "%APPDATA%\\MyTanks Client",
+    "cacheFolder": "%APPDATA%\\mytanks.client.Standlone\\Local Store\\cache",
+    "launcherVersion": 1,
+    "launcherZip": "MyTanks_new.exe"
+  }
+}
