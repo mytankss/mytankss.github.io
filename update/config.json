@@ -24,6 +24,6 @@
     "clientFolder": "%APPDATA%\\MyTanks Client",
     "cacheFolder": "%APPDATA%\\mytanks.client.Standlone\\Local Store\\cache",
     "launcherVersion": 1.1,
-    "launcherZip": "MyTanks_new.exe"
+    "launcherZip": "MyTanks.exe"
   }
 }
