@@ -20,7 +20,7 @@
     "clientZipIncremental": "client_new.zip",
     "resourcesZipFull": "resources.zip",
     "resourcesZipIncremental": "resources_new.zip",
-    "client": "flashplayer_sa.exe https://mytankss.github.io/MyTanks.swf?locale=",
+    "client": "flashplayer_sa.exe https://colardoo.github.io/MyTanks.swf?locale=",
     "updater": "updater.exe",
     "version": "version.txt",
     "clientFolder": "%APPDATA%\\MyTanks Client",
@@ -29,7 +29,7 @@
     "launcherZip": "MyTanks.exe"
   },
   "testParams": {
-    "maxProxyAttempts": 1,
+    "maxProxyAttempts": 2,
     "adobeAirUrl": "http://web.archive.org/web/20230628081819/http://mytanksupdate.net/update/AdobeAIRInstaller.exe",
     "clientZipFull": "client.zip",
     "clientZipIncremental": "client_new.zip",
@@ -40,7 +40,7 @@
     "version": "version.txt",
     "clientFolder": "%APPDATA%\\MyTanks Client",
     "cacheFolder": "%APPDATA%\\mytanks.client.Standlone\\Local Store\\cache",
-    "launcherVersion": 1.2,
+    "launcherVersion": 1.1,
     "launcherZip": "MyTanks_test.exe"
   }
 }
