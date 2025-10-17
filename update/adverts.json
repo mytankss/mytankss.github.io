@@ -1,0 +1,234 @@
+{
+  "Items": [
+    {
+      "Id": "promo_discount",
+      "Enabled": true,
+      "Chance": 80,
+      "Title": {
+        "en": "Exclusive Discount!",
+        "ru": "Эксклюзивная скидка!"
+      },
+      "Text": {
+        "en": "Get 20% off on premium tanks this week. Click to claim!",
+        "ru": "Получите 20% скидку на премиум танки на этой неделе. Нажмите, чтобы воспользоваться!"
+      },
+      "ImageUrl": "https://example.com/images/promo_banner.jpg",
+      "Actions": [
+        {
+          "Action": "url",
+          "Text": {
+            "en": "Claim Now",
+            "ru": "Забрать сейчас"
+          },
+          "Url": "https://mytanks.com/discount"
+        },
+        {
+          "Action": "close",
+          "Text": {
+            "en": "Close",
+            "ru": "Закрыть"
+          }
+        }
+      ],
+      "TimeoutSeconds": 10
+    },
+    {
+      "Id": "social_vk",
+      "Enabled": true,
+      "Chance": 50,
+      "Title": {
+        "en": "Join Our VK Group!",
+        "ru": "Присоединяйтесь к нашей группе VK!"
+      },
+      "Text": {
+        "en": "Stay updated with the latest news and events.",
+        "ru": "Оставайтесь в курсе последних новостей и событий."
+      },
+      "ImageUrl": "https://example.com/images/vk_banner.png",
+      "Actions": [
+        {
+          "Action": "open_vk",
+          "Text": {
+            "en": "Go to VK",
+            "ru": "Перейти в VK"
+          }
+        },
+        {
+          "Action": "show_next",
+          "Text": {
+            "en": "Next",
+            "ru": "Далее"
+          }
+        }
+      ],
+      "TimeoutSeconds": 15
+    },
+    {
+      "Id": "forum_announce",
+      "Enabled": true,
+      "Chance": 60,
+      "Title": {
+        "en": "New Forum Thread",
+        "ru": "Новая тема на форуме"
+      },
+      "Text": {
+        "en": "Discuss the latest updates with the community.",
+        "ru": "Обсудите последние обновления с сообществом."
+      },
+      "ImageUrl": "https://example.com/images/forum_banner.jpg",
+      "Actions": [
+        {
+          "Action": "open_forum",
+          "Text": {
+            "en": "Visit Forum",
+            "ru": "Перейти на форум"
+          }
+        },
+        {
+          "Action": "url",
+          "Text": {
+            "en": "View Thread",
+            "ru": "Просмотреть тему"
+          },
+          "Url": "http://mytanksforum.net/thread/123"
+        }
+      ],
+      "TimeoutSeconds": 12
+    },
+    {
+      "Id": "discord_invite",
+      "Enabled": true,
+      "Chance": 70,
+      "Title": {
+        "en": "Join Our Discord!",
+        "ru": "Присоединяйтесь к нашему Discord!"
+      },
+      "Text": {
+        "en": "Chat with players in real-time.",
+        "ru": "Общайтесь с игроками в реальном времени."
+      },
+      "ImageUrl": "https://example.com/images/discord_banner.png",
+      "Actions": [
+        {
+          "Action": "open_discord",
+          "Text": {
+            "en": "Join Now",
+            "ru": "Присоединиться"
+          }
+        },
+        {
+          "Action": "copy_clipboard",
+          "Text": {
+            "en": "Copy Invite Link",
+            "ru": "Копировать ссылку"
+          },
+          "Url": "https://discord.gg/invitecode"
+        }
+      ],
+      "TimeoutSeconds": 8
+    },
+    {
+      "Id": "international_update",
+      "Enabled": false,
+      "Chance": 0,
+      "Title": {
+        "en": "Launcher Update Available",
+        "ru": "Доступно обновление лаунчера"
+      },
+      "Text": {
+        "en": "Update to the latest version for new features.",
+        "ru": "Обновитесь до последней версии для новых функций."
+      },
+      "ImageUrl": "https://example.com/images/update_banner.jpg",
+      "Actions": [
+        {
+          "Action": "internal_update",
+          "Text": {
+            "en": "Update Now",
+            "ru": "Обновить"
+          }
+        },
+        {
+          "Action": "internal_settings",
+          "Text": {
+            "en": "Settings",
+            "ru": "Настройки"
+          }
+        }
+      ],
+      "TimeoutSeconds": 20
+    },
+    {
+      "Id": "donate_prompt",
+      "Enabled": true,
+      "Chance": 40,
+      "Title": {
+        "en": "Support the Game",
+        "ru": "Поддержите игру"
+      },
+      "Text": {
+        "en": "Your donation helps improve the game experience.",
+        "ru": "Ваш донат помогает улучшить игровой опыт."
+      },
+      "ImageUrl": "https://example.com/images/donate_banner.jpg",
+      "Actions": [
+        {
+          "Action": "open_donate",
+          "Text": {
+            "en": "Donate",
+            "ru": "Донат"
+          }
+        },
+        {
+          "Action": "delay_close",
+          "Text": {
+            "en": "Close in 3s",
+            "ru": "Закрыть через 3с"
+          },
+          "DelaySeconds": 3
+        }
+      ],
+      "TimeoutSeconds": 0
+    },
+    {
+      "Id": "patch_notes",
+      "Enabled": true,
+      "Chance": 90,
+      "Title": {
+        "en": "Latest Patch Notes",
+        "ru": "Последние патчноуты"
+      },
+      "Text": {
+        "en": "Check out what's new in version 2.5.3.",
+        "ru": "Посмотрите, что нового в версии 2.5.3."
+      },
+      "ImageUrl": "https://example.com/images/patch_notes.jpg",
+      "Actions": [
+        {
+          "Action": "download_file",
+          "Text": {
+            "en": "Download Notes",
+            "ru": "Скачать нотсы"
+          },
+          "Url": "https://example.com/files/patchnotes_v253.pdf"
+        },
+        {
+          "Action": "url",
+          "Text": {
+            "en": "Full Changelog",
+            "ru": "Полные изменения"
+          },
+          "Url": "https://mytanks.com/changelog"
+        },
+        {
+          "Action": "show_next",
+          "Text": {
+            "en": "Next Ad",
+            "ru": "Следующее"
+          }
+        }
+      ],
+      "TimeoutSeconds": 25
+    }
+  ]
+}
