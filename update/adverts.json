@@ -1,6 +1,41 @@
 ﻿{
   "Items": [
     {
+      "Id": "posr_vk",
+      "Enabled": true,
+      "Chance": 80,
+      "Title": {
+        "en": "Player of week!",
+        "ru": "Игрок недели!"
+      },
+      "Text": {
+        "en": "Meet The Most Active Players Of The Week! Prizes Awarded ❤️",
+        "ru": "Встречаем Самых Активных Игроков Недели! Призы Начислены ❤️"
+      },
+      "ImageUrl": "https://sun9-79.userapi.com/s/v1/if2/3se97OzvcVrnCbqbLk-VhKBOyNJg1olyc_w-GWdQRn7fwCjtcLsqU7ecrUoKOILe4sluPh3t5h7GbwwwqC-9d8u6.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x269,480x359,540x404,640x479,720x539,886x663&from=bu&u=IKANPsZ6zHVwVG5UtIjREIQWuxjfIeJIy0Y02cXaBE0&cs=886x0",
+      "Actions": [
+        {
+          "Action": "open_vk",
+          "Text": {
+            "en": "Go to VK",
+            "ru": "Перейти в VK"
+          }
+        },
+        {
+          "Action": "url",
+          "Text": {
+            "en": "View post in VK",
+            "ru": "Просмотреть пост в ВК"
+          },
+          "Url": "http://vk.com/wall-191009342_355"
+        }
+        }
+      ],
+      "TimeoutSeconds": 20,
+      "StartDate": "2025-10-10T00:00:00",
+      "EndDate": "2025-10-19T23:59:59"
+    },
+    {
       "Id": "promo_discount",
       "Enabled": true,
       "Chance": 80,
@@ -30,7 +65,9 @@
           }
         }
       ],
-      "TimeoutSeconds": 10
+      "TimeoutSeconds": 10,
+      "StartDate": "2025-10-10T00:00:00",
+      "EndDate": "2025-12-31T23:59:59"
     },
     {
       "Id": "social_vk",
@@ -93,7 +130,9 @@
           "Url": "http://mytanksforum.net/thread/123"
         }
       ],
-      "TimeoutSeconds": 12
+      "TimeoutSeconds": 12,
+      "StartDate": "2025-10-10T00:00:00",
+      "EndDate": "2025-10-31T23:59:59"
     },
     {
       "Id": "discord_invite",
@@ -228,7 +267,9 @@
           }
         }
       ],
-      "TimeoutSeconds": 25
+      "TimeoutSeconds": 25,
+      "StartDate": "2025-10-10T00:00:00",
+      "EndDate": "2025-11-31T23:59:59"
     }
   ]
 }
