@@ -31,8 +31,8 @@
         }
       ],
       "TimeoutSeconds": 20,
-      "StartDate": "2025-10-10T00:00:00Z",
-      "EndDate": "2025-10-19T23:59:59Z"
+      "StartDate": "2025-10-10T00:00:00",
+      "EndDate": "2025-10-20T23:59:59"
     },
     {
       "Id": "promo_discount",
@@ -65,8 +65,8 @@
         }
       ],
       "TimeoutSeconds": 10,
-      "StartDate": "2025-10-10T00:00:00Z",
-      "EndDate": "2025-12-31T23:59:59Z"
+      "StartDate": "2025-10-10T00:00:00",
+      "EndDate": "2025-12-31T23:59:59"
     },
     {
       "Id": "social_vk",
@@ -130,8 +130,8 @@
         }
       ],
       "TimeoutSeconds": 12,
-      "StartDate": "2025-10-10T00:00:00Z",
-      "EndDate": "2025-10-31T23:59:59Z"
+      "StartDate": "2025-10-10T00:00:00",
+      "EndDate": "2025-10-30T23:59:59"
     },
     {
       "Id": "discord_invite",
@@ -267,8 +267,8 @@
         }
       ],
       "TimeoutSeconds": 25,
-      "StartDate": "2025-10-10T00:00:00Z",
-      "EndDate": "2025-11-31T23:59:59Z"
+      "StartDate": "2025-10-10T00:00:00",
+      "EndDate": "2025-10-30T23:59:59"
     }
   ]
 }
