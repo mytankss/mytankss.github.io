@@ -1,7 +1,7 @@
 ﻿{
   "Items": [
     {
-      "Id": "posr_vk",
+      "Id": "post_vk0",
       "Enabled": true,
       "Chance": 80,
       "Title": {
@@ -12,7 +12,7 @@
         "en": "Meet The Most Active Players Of The Week! Prizes Awarded ❤️",
         "ru": "Встречаем Самых Активных Игроков Недели! Призы Начислены ❤️"
       },
-      "ImageUrl": "https://sun9-79.userapi.com/s/v1/if2/3se97OzvcVrnCbqbLk-VhKBOyNJg1olyc_w-GWdQRn7fwCjtcLsqU7ecrUoKOILe4sluPh3t5h7GbwwwqC-9d8u6.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x269,480x359,540x404,640x479,720x539,886x663&from=bu&u=IKANPsZ6zHVwVG5UtIjREIQWuxjfIeJIy0Y02cXaBE0&cs=886x0",
+      "ImageUrl": "https://sun9-79.userapi.com/s/v1/if2/LAYxybmkeSiFT2exMQ-dxHmbQUukKod8txV3S41dMTTdniTOijW9eYEgLXHBgvhH2qfvPXvmZ8B7vK1uA0pU2-42.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x269,480x359,540x404,640x479,720x539,886x663&from=bu&u=aH59LIuRQZsyPq3mTC_8k0omPlCa5hf2xe8f8XJJDYY&cs=886x0",
       "Actions": [
         {
           "Action": "open_vk",
@@ -27,16 +27,16 @@
             "en": "View post in VK",
             "ru": "Просмотреть пост в ВК"
           },
-          "Url": "http://vk.com/wall-191009342_355"
+          "Url": "https://vk.com/wall-191009342_356"
         }
       ],
       "TimeoutSeconds": 20,
-      "StartDate": "2025-10-10T00:00:00",
-      "EndDate": "2025-10-20T23:59:59"
+      "StartDate": "2025-10-21T00:00:00",
+      "EndDate": "2025-10-29T23:59:59"
     },
     {
       "Id": "promo_discount",
-      "Enabled": true,
+      "Enabled": false,
       "Chance": 80,
       "Title": {
         "en": "Exclusive Discount!",
@@ -80,7 +80,7 @@
         "en": "Stay updated with the latest news and events.",
         "ru": "Оставайтесь в курсе последних новостей и событий."
       },
-      "ImageUrl": "https://example.com/images/vk_banner.png",
+      "ImageUrl": "https://example.com/images/vk_banner.pn1g",
       "Actions": [
         {
           "Action": "open_vk",
@@ -101,7 +101,7 @@
     },
     {
       "Id": "forum_announce",
-      "Enabled": true,
+      "Enabled": false,
       "Chance": 60,
       "Title": {
         "en": "New Forum Thread",
@@ -135,7 +135,7 @@
     },
     {
       "Id": "discord_invite",
-      "Enabled": true,
+      "Enabled": false,
       "Chance": 70,
       "Title": {
         "en": "Join Our Discord!",
@@ -230,7 +230,7 @@
     },
     {
       "Id": "patch_notes",
-      "Enabled": true,
+      "Enabled": false,
       "Chance": 90,
       "Title": {
         "en": "Latest Patch Notes",

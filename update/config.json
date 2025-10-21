@@ -42,5 +42,13 @@
     "cacheFolder": "%APPDATA%\\mytanks.client.Standlone\\Local Store\\cache",
     "launcherVersion": 1.1,
     "launcherZip": "MyTanks_test.exe"
-  }
+  },
+  "bannedUsernames": [
+    "Саша Беленчиков",
+    "DimaMaster",
+    "paradise",
+    "REPVP",
+    "пидор",
+    "faggot"
+  ]
 }
