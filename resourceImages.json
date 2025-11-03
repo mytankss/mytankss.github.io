@@ -1406,15 +1406,15 @@
         },
 		{
             "name": "railgunxt_m0_details",
-            "src": "turret/railgunxt/m0/details.png?v1"
+            "src": "turret/railgun_xt/m0/details.png?v1"
         },
         {
             "name": "railgunxt_m0_preview",
-            "src": "turret/railgunxt/m0/preview.png?v1"
+            "src": "turret/railgun_xt/m0/preview.png?v1"
         },
         {
             "name": "railgunxt_m0_lightmap",
-            "src": "turret/railgunxt/m0/lightmap.jpg?v1"
+            "src": "turret/railgun_xt/m0/lightmap.jpg?v1"
         },
         {
             "name": "railgun_m0_details",
@@ -4191,7 +4191,7 @@
         },
 		{
             "name": "railgunxt_m0_shot",
-            "src": "turret/railgunxt/m0/railgun.png?v1"
+            "src": "turret/railgun_xt/m0/railgun.png?v1"
         },
         {
             "name": "railgun_m0_shot",
@@ -4223,15 +4223,15 @@
         },
 		{
             "name": "railgunxt_m0_chargingPart1",
-            "src": "turret/railgunxt/m0/charge_part1.png"
+            "src": "turret/railgun_xt/m0/charge_part1.png"
         },
         {
             "name": "railgunxt_m0_chargingPart2",
-            "src": "turret/railgunxt/m0/charge_part2.png"
+            "src": "turret/railgun_xt/m0/charge_part2.png"
         },
         {
             "name": "railgunxt_m0_chargingPart3",
-            "src": "turret/railgunxt/m0/charge_part3.png"
+            "src": "turret/railgun_xt/m0/charge_part3.png"
         },
         {
             "name": "railgun_m0_chargingPart1",
