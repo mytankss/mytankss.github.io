@@ -1,7 +1,7 @@
 {
   "baseUrl": "http://mytanks.ru",
   "updateUrl": "https://mytankss.github.io/update",
-  "test": true,
+  "test": false,
   "links": {
     "vk": "http://vk.com/club191009342",
     "forum": "http://forum.mytanks.ru",
@@ -43,6 +43,121 @@
     "launcherVersion": 1.1,
     "launcherZip": "MyTanks_test.exe"
   },
+  "servers": [
+    {
+      "hidden": false,
+      "name": {
+        "ru": "Основной",
+        "en": "Main"
+      },
+      "baseUrl": "http://mytanks.ru",
+      "updateUrl": "https://mytankss.github.io/update",
+      "test": false,
+      "status": "Working",
+      "links": {
+        "vk": "http://vk.com/club191009342",
+        "forum": "http://forum.mytanks.ru",
+        "discord": "https://discordapp.com/invite/vvaTQsx",
+        "kassa": "http://pay.mytanks.ru"
+      },
+      "params": {
+        "maxProxyAttempts": 1,
+        "adobeAirUrl": "http://web.archive.org/web/20230628081819/http://mytanksupdate.net/update/AdobeAIRInstaller.exe",
+        "clientZipFull": "client.zip",
+        "clientZipIncremental": "client_new.zip",
+        "resourcesZipFull": "resources.zip",
+        "resourcesZipIncremental": "resources_new.zip",
+        "client": "flashplayer_sa.exe https://colardoo.github.io/MyTanks.swf?locale=",
+        "updater": "updater.exe",
+        "version": "version.txt",
+        "clientFolder": "%APPDATA%\\MyTanks Client",
+        "cacheFolder": "%APPDATA%\\mytanks.client.Standlone\\Local Store\\cache",
+        "launcherVersion": 1.1,
+        "launcherZip": "MyTanks.exe"
+      },
+      "testParams": null
+    },
+    {
+      "hidden": false,
+      "name": {
+        "ru": "Основной 2",
+        "en": "Main 2"
+      },
+      "baseUrl": "http://mytanks.ru",
+      "updateUrl": "https://mytankss.github.io/update",
+      "test": false,
+      "status": "Unavailable",
+      "links": {
+        "vk": "http://vk.com/club191009342",
+        "forum": "http://forum.mytanks.ru",
+        "discord": "https://discordapp.com/invite/vvaTQsx",
+        "kassa": "http://pay.mytanks.ru"
+      },
+      "params": {
+        "maxProxyAttempts": 1,
+        "adobeAirUrl": "http://web.archive.org/web/20230628081819/http://mytanksupdate.net/update/AdobeAIRInstaller.exe",
+        "clientZipFull": "client.zip",
+        "clientZipIncremental": "client_new.zip",
+        "resourcesZipFull": "resources.zip",
+        "resourcesZipIncremental": "resources_new.zip",
+        "client": "flashplayer_sa.exe https://colardoo.github.io/MyTanks.swf?locale=",
+        "updater": "updater.exe",
+        "version": "version.txt",
+        "clientFolder": "%APPDATA%\\MyTanks Client",
+        "cacheFolder": "%APPDATA%\\mytanks.client.Standlone\\Local Store\\cache",
+        "launcherVersion": 1.1,
+        "launcherZip": "MyTanks.exe"
+      },
+      "testParams": null
+    },
+    {
+      "hidden": false,
+      "name": {
+        "ru": "Тестовый",
+        "en": "Test"
+      },
+      "baseUrl": "http://mytanks.ru",
+      "updateUrl": "https://mytankss.github.io/update",
+      "test": true,
+      "status": "Temporary",
+      "links": {
+        "vk": "http://vk.com/club191009342",
+        "forum": "http://forum.mytanks.ru",
+        "discord": "https://discordapp.com/invite/vvaTQsx",
+        "kassa": "http://pay.mytanks.ru"
+      },
+      "params": {
+        "maxProxyAttempts": 2,
+        "adobeAirUrl": "http://web.archive.org/web/20230628081819/http://mytanksupdate.net/update/AdobeAIRInstaller.exe",
+        "clientZipFull": "client.zip",
+        "clientZipIncremental": "client_new.zip",
+        "resourcesZipFull": "resources.zip",
+        "resourcesZipIncremental": "resources_new.zip",
+        "client": "flashplayer_sa.exe https://mytankss.github.io/MyTanks.swf?locale=",
+        "updater": "updater.exe",
+        "version": "version.txt",
+        "clientFolder": "%APPDATA%\\MyTanks Client",
+        "cacheFolder": "%APPDATA%\\mytanks.client.Standlone\\Local Store\\cache",
+        "launcherVersion": 1.1,
+        "launcherZip": "MyTanks_test.exe"
+      },
+      "testParams": {
+        "maxProxyAttempts": 2,
+        "adobeAirUrl": "http://web.archive.org/web/20230628081819/http://mytanksupdate.net/update/AdobeAIRInstaller.exe",
+        "clientZipFull": "client.zip",
+        "clientZipIncremental": "client_new.zip",
+        "resourcesZipFull": "resources.zip",
+        "resourcesZipIncremental": "resources_new.zip",
+        "client": "flashplayer_sa.exe https://mytankss.github.io/MyTanks.swf?locale=",
+        "updater": "updater.exe",
+        "version": "version.txt",
+        "clientFolder": "%APPDATA%\\MyTanks Client",
+        "cacheFolder": "%APPDATA%\\mytanks.client.Standlone\\Local Store\\cache",
+        "launcherVersion": 1.1,
+        "launcherZip": "MyTanks_test.exe"
+      }
+    }
+  ],
   "bannedUsernames": [
     "Саша Беленчиков",
     "DimaMaster",
