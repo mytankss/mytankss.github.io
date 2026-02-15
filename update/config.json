@@ -25,7 +25,7 @@
     "version": "version.txt",
     "clientFolder": "%APPDATA%\\MyTanks Client",
     "cacheFolder": "%APPDATA%\\mytanks.client.Standlone\\Local Store\\cache",
-    "launcherVersion": 1.1,
+    "launcherVersion": 1.2,
     "launcherZip": "MyTanks.exe"
   },
   "testParams": {
@@ -40,7 +40,7 @@
     "version": "version.txt",
     "clientFolder": "%APPDATA%\\MyTanks Client",
     "cacheFolder": "%APPDATA%\\mytanks.client.Standlone\\Local Store\\cache",
-    "launcherVersion": 1.1,
+    "launcherVersion": 1.2,
     "launcherZip": "MyTanks_test.exe"
   },
   "servers": [
@@ -67,18 +67,18 @@
         "clientZipIncremental": "client_new.zip",
         "resourcesZipFull": "resources.zip",
         "resourcesZipIncremental": "resources_new.zip",
-        "client": "flashplayer_sa.exe https://colardoo.github.io/MyTanks.swf?locale=",
+        "client": "flashplayer_sa.exe https://mytankss.github.io/MTloader.swf?locale=",
         "updater": "updater.exe",
         "version": "version.txt",
         "clientFolder": "%APPDATA%\\MyTanks Client",
         "cacheFolder": "%APPDATA%\\mytanks.client.Standlone\\Local Store\\cache",
-        "launcherVersion": 1.1,
+        "launcherVersion": 1.2,
         "launcherZip": "MyTanks.exe"
       },
       "testParams": null
     },
     {
-      "hidden": false,
+      "hidden": true,
       "name": {
         "ru": "Основной 2",
         "en": "Main 2"
@@ -105,7 +105,7 @@
         "version": "version.txt",
         "clientFolder": "%APPDATA%\\MyTanks Client",
         "cacheFolder": "%APPDATA%\\mytanks.client.Standlone\\Local Store\\cache",
-        "launcherVersion": 1.1,
+        "launcherVersion": 1.2,
         "launcherZip": "MyTanks.exe"
       },
       "testParams": null
@@ -133,12 +133,12 @@
         "clientZipIncremental": "client_new.zip",
         "resourcesZipFull": "resources.zip",
         "resourcesZipIncremental": "resources_new.zip",
-        "client": "flashplayer_sa.exe https://mytankss.github.io/MyTanks.swf?locale=",
+        "client": "flashplayer_sa.exe https://colardoo.github.io/MyTanks.swf?locale=",
         "updater": "updater.exe",
         "version": "version.txt",
         "clientFolder": "%APPDATA%\\MyTanks Client",
         "cacheFolder": "%APPDATA%\\mytanks.client.Standlone\\Local Store\\cache",
-        "launcherVersion": 1.1,
+        "launcherVersion": 1.2,
         "launcherZip": "MyTanks_test.exe"
       },
       "testParams": {
@@ -148,12 +148,12 @@
         "clientZipIncremental": "client_new.zip",
         "resourcesZipFull": "resources.zip",
         "resourcesZipIncremental": "resources_new.zip",
-        "client": "flashplayer_sa.exe https://mytankss.github.io/MyTanks.swf?locale=",
+        "client": "flashplayer_sa.exe https://colardoo.github.io/MyTanks.swf?locale=",
         "updater": "updater.exe",
         "version": "version.txt",
         "clientFolder": "%APPDATA%\\MyTanks Client",
         "cacheFolder": "%APPDATA%\\mytanks.client.Standlone\\Local Store\\cache",
-        "launcherVersion": 1.1,
+        "launcherVersion": 1.2,
         "launcherZip": "MyTanks_test.exe"
       }
     }
@@ -163,7 +163,7 @@
     "DimaMaster",
     "paradise",
     "REPVP",
-    "пидор",
+    "Андрей Овчаренко",
     "faggot"
   ]
 }
