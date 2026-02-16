@@ -41,7 +41,7 @@
     "clientFolder": "%APPDATA%\\MyTanks Client",
     "cacheFolder": "%APPDATA%\\mytanks.client.Standlone\\Local Store\\cache",
     "launcherVersion": 1.2,
-    "launcherZip": "MyTanks_test.exe"
+    "launcherZip": "MyTanks.exe"
   },
   "servers": [
     {
@@ -139,7 +139,7 @@
         "clientFolder": "%APPDATA%\\MyTanks Client",
         "cacheFolder": "%APPDATA%\\mytanks.client.Standlone\\Local Store\\cache",
         "launcherVersion": 1.2,
-        "launcherZip": "MyTanks_test.exe"
+        "launcherZip": "MyTanks.exe"
       },
       "testParams": {
         "maxProxyAttempts": 2,
@@ -154,7 +154,7 @@
         "clientFolder": "%APPDATA%\\MyTanks Client",
         "cacheFolder": "%APPDATA%\\mytanks.client.Standlone\\Local Store\\cache",
         "launcherVersion": 1.2,
-        "launcherZip": "MyTanks_test.exe"
+        "launcherZip": "MyTanks.exe"
       }
     }
   ],
