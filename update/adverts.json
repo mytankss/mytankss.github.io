@@ -35,6 +35,32 @@
       "EndDate": "2025-10-29T23:59:59"
     },
     {
+      "Id": "stay_alert1",
+      "Enabled": true,
+      "Chance": 60,
+      "Title": {
+        "en": "Stay alert!",
+        "ru": "Будьте бдительны!"
+      },
+      "Text": {
+        "en": "Fake “MyTanks” project from Ovcharenko have appeared online; they contain a virus that grants remote control of your PC and steals your data. We strongly advise you not to download—let alone run—them. Such projects are made to abuse your trust; their main goal is your donations and personal data, and they may stop working at any moment. Play only our official MyTanks. In the future we might release a unified tank-game launcher that contains only verified, approved projects. Good luck on the battlefield!️",
+        "ru": "В сети появились так называемые фейковые «MyTanks» от «овчарки», которые содержат вирус, позволяющий получить доступ к управлению вашим ПК и краже данных. Мы настоятельно не рекомендуем их скачивать, а тем более запускать: такие проекты создаются ради обмана вашего доверия, их главная цель — ваши донаты и данные, а сами проекты могут работать недолго. Играйте только в наши MyTanks; возможно, мы вскоре создадим общий лаунчер танковых проектов, где будут только проверенные и одобренные нами игры. Удачи на полях сражений!️"
+      },
+      "ImageUrl": "https://tankionline.com/ru/wp-content/uploads/2021/06/740.jpg",
+      "Actions": [
+        {
+          "Action": "close",
+          "Text": {
+            "en": "Close",
+            "ru": "Закрыть"
+          }
+        }
+      ],
+      "TimeoutSeconds": 30,
+      "StartDate": "2026-02-16T00:00:00",
+      "EndDate": "2025-03-02T23:59:59"
+    },
+    {
       "Id": "launcher_update1",
       "Enabled": true,
       "Chance": 80,
