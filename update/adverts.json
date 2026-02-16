@@ -58,7 +58,7 @@
       ],
       "TimeoutSeconds": 30,
       "StartDate": "2026-02-16T00:00:00",
-      "EndDate": "2025-03-02T23:59:59"
+      "EndDate": "2026-03-02T23:59:59"
     },
     {
       "Id": "launcher_update1",
