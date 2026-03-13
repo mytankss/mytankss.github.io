@@ -10,8 +10,8 @@
   },
   "proxy": {
     "url": "http://45.10.250.212:8000",
-    "username": "apwTTV",
-    "password": "QPyGbn"
+    "username":
+    "password":
   },
   "otherParams": {
     "maxProxyAttempts": 1,
@@ -20,7 +20,7 @@
     "clientZipIncremental": "client_new.zip",
     "resourcesZipFull": "resources.zip",
     "resourcesZipIncremental": "resources_new.zip",
-    "client": "flashplayer_sa.exe https://colardoo.github.io/MyTanks.swf?locale=",
+    "client":
     "updater": "updater.exe",
     "version": "version.txt",
     "clientFolder": "%APPDATA%\\MyTanks Client",
@@ -148,7 +148,7 @@
         "clientZipIncremental": "client_new.zip",
         "resourcesZipFull": "resources.zip",
         "resourcesZipIncremental": "resources_new.zip",
-        "client": "flashplayer_sa.exe https://colardoo.github.io/MyTanks.swf?locale=",
+        "client":
         "updater": "updater.exe",
         "version": "version.txt",
         "clientFolder": "%APPDATA%\\MyTanks Client",
