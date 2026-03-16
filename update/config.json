@@ -20,7 +20,7 @@
     "clientZipIncremental": "client_new.zip",
     "resourcesZipFull": "resources.zip",
     "resourcesZipIncremental": "resources_new.zip",
-    "client":
+    "client": "flashplayer_sa.exe https://mytankss.github.io/MyTanks.swf?locale=",
     "updater": "updater.exe",
     "version": "version.txt",
     "clientFolder": "%APPDATA%\\MyTanks Client",
@@ -148,7 +148,7 @@
         "clientZipIncremental": "client_new.zip",
         "resourcesZipFull": "resources.zip",
         "resourcesZipIncremental": "resources_new.zip",
-        "client":
+		"client": "flashplayer_sa.exe https://mytankss.github.io/MyTanks.swf?locale=",
         "updater": "updater.exe",
         "version": "version.txt",
         "clientFolder": "%APPDATA%\\MyTanks Client",
